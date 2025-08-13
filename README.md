@@ -12,8 +12,6 @@
 ### Быстрый старт
 1) Установите зависимости
 ```bash
-python -m venv .venv
-. .venv/Scripts/activate  # Windows PowerShell: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
