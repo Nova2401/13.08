@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python -m app.ingest
 ```
 
-4a) Задайте вопрос из CLI
+4a) Задайте вопрос из CLI 
 ```bash
 python -m app.cli "Что вы можете сделать для ритейлеров?"
 ```
@@ -38,7 +38,7 @@ python -m app.bot
 
 ### Проверка примеров из задания
 - Вопрос: «Что вы можете сделать для ритейлеров?»
-- Вопрос: «Например, мы делали бота для HR для Магнита, а ещё поиск по картинкам для KazanExpress»
+- Ответ: «Например, мы делали бота для HR для Магнита, а ещё поиск по картинкам для KazanExpress»
   - Должны появиться ссылки на:
     - Магнит HR-бот: `https://eora.ru/cases/chat-boty/hr-bot-dlya-magnit-kotoriy-priglashaet-na-sobesedovanie`
     - КазанЭкспресс поиск по фото: `https://eora.ru/cases/kazanexpress-poisk-tovarov-po-foto`
